@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js no-touch iem7" lang="en"> <![endif]-->
+<!--[if lt IE 7]><html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" lang="en" xml:lang="en" id="ie6" class="no-js no-touch ie lt-ie12 lt-ie11 lt-ie10 lt-ie9 lt-ie8 lt-ie7"><![endif]-->
+<!--[if IE 7]><html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" lang="en" xml:lang="en" id="ie7" class="no-js no-touch ie lt-ie12 lt-ie11 lt-ie10 lt-ie9 lt-ie8 gt-ie6"><![endif]-->
+<!--[if IE 8]><html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" lang="en" xml:lang="en" id="ie8" class="no-js no-touch ie lt-ie12 lt-ie11 lt-ie10 lt-ie9 gt-ie6 gt-ie7"><![endif]-->
+<!--[if IE 9]><html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" lang="en" xml:lang="en" id="ie9" class="no-js no-touch ie lt-ie12 lt-ie11 lt-ie10 gt-ie8 gt-ie7 gt-ie6"><![endif]-->
+<!--[if !IE]><!-->
+<html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" lang="en" xml:lang="en" class="no-touch no-js"><!--<![endif]-->
+<head>
+  <title>Cisco.com Login Page</title>
+
+  <base href="//www.cisco.com" />
+
+  <!--[if lt IE 9]><meta http-equiv="X-UA-Compatible" content="IE=8" /><![endif]-->
+  <!--[if gt IE 8]><meta http-equiv="X-UA-Compatible" content="IE=edge" /><![endif]-->
+  <!--[if !IE]><meta http-equiv="X-UA-Compatible" content="chrome=1" /><![endif]-->
+  <meta charset="utf-8">
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="MobileOptimized" content="320" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Mobile IE allows us to activate ClearType technology for smoothing fonts for easy reading -->
+  <meta http-equiv="cleartype" content="on">
+
+  <!-- Brought over from previous version of Login Page -->
+  <meta name="accessLevel" content="Guest"/>
+  <meta name="country" content="US"/>
+  <meta name="locale" content="US"/>
+  <meta name="language" content="en"/>
+  <meta name="title" content="Login Page"/>
+
+  <!-- TODO -->
+  <link rel="stylesheet" href="/etc/designs/cdc/clientlibs/responsive/css/cisco-sans.min.css" type="text/css">
+  <!-- <link rel="stylesheet" href="//www.cisco.com/etc/designs/cdc/clientlibs/responsive/css/cisco-sans.min.css" type="text/css"> -->
+
+  <link rel="search" type="application/opensearchdescription+xml" title="Search Cisco.com" href="/web/tsweb/searchplugins/cdc_search.xml" />
+
+  <script type="text/javascript" src="/etc/designs/cdc/clientlibs/responsive/js/foundation.js"></script> 
+  <!-- <script type="text/javascript" src="//digital-signin.cisco.com:4502/etc/designs/cdc/clientlibs/responsive/js/foundation.js"></script> -->
+  <!-- <script type="text/javascript" src="//localhost.cisco.com:4502/etc/designs/cdc/clientlibs/responsive/js/foundation.js"></script> -->
+  <!-- <script type="text/javascript" src="//sso.cisco.com/autho/inbound/CDClogin-fed-assets/foundation.js"></script>  -->
+
+  <!-- TODO -->
+  <!--[if (!IE) | (gt IE 8)]><!-->
+    <link rel="stylesheet" type="text/css" href="/etc/designs/cdc/clientlibs/responsive/css/digital-signin.css?cachemode=refresh">
+    <!-- <link rel="stylesheet" type="text/css" href="//digital-signin.cisco.com:4502/etc/designs/cdc/clientlibs/responsive/css/digital-signin.css?cachemode=refresh"> -->
+    <!-- <link rel="stylesheet" type="text/css" href="//localhost.cisco.com:4502/etc/designs/cdc/clientlibs/responsive/css/digital-signin.css?cachemode=refresh"> -->
+    <!-- <link rel="stylesheet" type="text/css" href="//sso.cisco.com/autho/inbound/CDClogin-fed-assets/digital-signin.css?cachemode=refresh"> -->
+  <!--<![endif]-->
+
+</head>
+
+  
+
+<body id="wcq" class="fw-res cdc-transform federation digital-signin">
+  <header id="fw-masthead" data-owner="ID"><!-- header -->
+    <div id="fw-banner">
+      <a id="fw-logo" href="/c/en/us/index.html" tabindex="9">
+        <div>Cisco.com Worldwide Home</div>
+      </a>
+    </div>
+  </header><!-- closing header -->
+
+  <div id="preload"></div>
+
+  <div id="fw-content" class="container grid" data-owner="ID"> <!-- content -->
+    <div id="alert">
+      <div class="alert-close"> <a id="alert-close-link"> <img/></a></div>
+      <div class="alert-container">
+        <p> Cisco will soon replace our traditional login setup with Digital Log In,</br> a simpler, more secure login system. </p>
+        <!-- </br> -->
+        <a class="alert-link" href="https://cloudsso.cisco.com/sp/startSSO.ping?SpSessionAuthnAdapterId=standard&TargetResource=https://sso.cisco.com/autho/login/loginaction.html" tabindex="10"> Start using it now > </a>
+
+      </div>
+    </div>
+
+    <div class="row halves" data-owner="ID"> <!-- row  -->
+      <div class="col half">  <!-- half left -->
+        <div class="cec-traditional" > <!-- traditional -->
+          <div id="login-wrapper" class="cec-login-wrapper">
+            <article id="login">
+                <form id="login-form" class="cec" method="post" name="login-form" action="https://sso.cisco.com/autho/login/loginaction.html">
+                  <h1 class="login-title"> Log in </h1>
+                  <h2 class="login-info"> Enter your CEC username and password</h2>
+                  <ul>
+                    <!-- User Name -->
+                    <li id="containUser">
+                        <label id="username" for="userInput" class="username-label" data-text="LOGIN_FED_LOCAL_CEC_CONTENT_USER_NAME">Username</label>
+                        <input id="userInput" class="inptxt hint username-input  ellipses" type="text" name="userid" value="" size="33" maxlength="105" autocomplete="off" autocorrect="off" autocapitalize="off" tabindex="1" />
+                        <p class="msg idNull" data-text="LOGIN_FED_LOCAL_CONTENT_ERROR_MSG_ID_NULL">
+                            We couldn't find that. Try again.
+                        </p>
+                        <p class="msg idMulti" data-text="LOGIN_FED_LOCAL_CONTENT_ERROR_MSG_ID_MULTI">
+                           We found multiple accounts for that email.<br />
+                           Try a username.
+                        </p>
+                    </li>
+                     <!-- Password -->
+                    <li id="containPass" class="cec-password">
+                        <label id="password" for="passwordInput" class="password-label" data-text="LOGIN_FED_LOCAL_CONTENT_PASSWORD">Password</label>
+                        <input id="passwordInput" class="inptxt hint password-input" type="password" name="password" value="" size="33" maxlength="105"  autocomplete="off" autocorrect="off" autocapitalize="off"  tabindex="2" />
+                        <p class="msg passEmpty" data-text="LOGIN_FED_LOCAL_CONTENT_ERROR_MSG_INPUT_EMPTY">
+                           Nothing entered. Please try again.
+                        </p>
+                    </li>
+                    <input type="hidden" name="target" value=""/>
+                  </ul>
+
+                  <div id="warning-msg">
+                    <h3 data-text="LOGIN_FED_LOCAL_CONTENT_ERROR_MSG_PASSWORD">That login didn't work:</h3>
+                    <ul>
+                      <li data-text="LOGIN_FED_LOCAL_CONTENT_ERROR_MSG_PASSWORD_ITEM_1">Incorrect password. Try again.</li>
+                      <li data-text="LOGIN_FED_LOCAL_CONTENT_ERROR_MSG_PASSWORD_ITEM_2">If you recently changed your password, wait a few minutes for the system to update and try again.</li>
+                      <li data-text="LOGIN_FED_LOCAL_CONTENT_ERROR_MSG_PASSWORD_ITEM_3">If you recently changed your email address, check your email for a validation link from us. <a href='mailto:web-help@cisco.com'>Contact Cisco Support</a> for help.</li>
+                    </ul>
+                  </div>
+
+                  <input type="submit" id="login-button" class="button-cta-fed" name="login-button" data-value="LOGIN_FED_LOCAL_CONTENT_BTN_NEXT" value="Log In" tabindex="3" />
+                  <!-- store here for swapping out later -->
+                  <!-- TODO: convert to spans to avoid submitting -->
+                  <input type="hidden" id="login-button-next" name="login-button-login" data-value="LOGIN_FED_LOCAL_CONTENT_BTN_NEXT" value="Next">
+                  <input type="hidden" id="login-button-submit" name="login-button-login" data-value="LOGIN_FED_LOCAL_CONTENT_BTN_LOGIN" value="Log in">
+
+                  <div class="">
+                    <p class="forget">
+                      <a href="//pwreset.cisco.com" data-url="LOGIN_FED_LOCAL_CONTENT_FORGOT_PASSWORD_URL" data-text="LOGIN_FED_LOCAL_CONTENT_FORGOT_PASSWORD" tabindex="4">Forgot password?</a>
+                    </p>
+                  </div>
+                </form>
+
+                <div class="no-show">
+                  <aside id="register">
+                      <a data-url="LOGIN_FED_LOCAL_BTN_REGISTER_NOW_URL" href="//idreg.cloudapps.cisco.com/idreg/guestRegistration.do?locale=en_US" data-text="LOGIN_FED_LOCAL_BTN_REGISTER_NOW">Create a new account</a>
+                  </aside>
+                </div>
+            </article>
+          </div>
+
+          <div id="link-accounts-wrapper">
+            <article id="link-accounts">
+              <div class="title">
+                <section id="fw-title-nav-link">
+                    <h1 class="pagetitle" data-text="LOGIN_FED_LOCAL_CONTENT_HEADER_LINK">Link your accounts</h1>
+                </section>
+              </div>
+
+              <p data-text="LOGIN_FED_LOCAL_CONTENT_MESSAGE_LINK">Would you like to link your Cisco and WebEx/Spark accounts so it's easier next time? We'll ask you to log in to WebEx/Spark and that's it.</p>
+
+              <button id="link-accts-btn-link" class="button-cta-fed "  data-text="LOGIN_FED_LOCAL_BTN_LINK">Link my accounts</button>
+              <button id="link-accts-btn-link-later" class="button-cta-fed light"  data-text="LOGIN_FED_LOCAL_BTN_LINK_LATER">Ask me later</button>
+              <button id="link-accts-btn-link-never" class="button-cta-fed light"  data-text="LOGIN_FED_LOCAL_BTN_LINK_NEVER">Don't ask me again</button> <!-- TODO -->
+            </article>
+          </div>
+
+          <div id="redirect-msg-wrapper">
+            <article id="redirect-msg">
+              <div class="title">
+                <section id="fw-title-nav-link">
+                    <h1 class="pagetitle" data-text="LOGIN_FED_LOCAL_CONTENT_HEADER_REDIRECTING">Redirecting to your organization</h1>
+                </section>
+              </div>
+              <p data-text="LOGIN_FED_LOCAL_CONTENT_MESSAGE_REDIRECTING">We are linking your Cisco and organization accounts. We'll ask you to log in with your organization username and password and that's it.</p>
+            </article>
+          </div>
+        </div>  <!-- closing traditional -->
+      </div> <!-- closing left half -->
+
+      <div  class="col half"> <!-- half right -->
+        <div class="cec-digital" > <!-- digital -->
+          <div class="cec-title">
+            <h1 class="digital-title">...or start Digital Log In</h1>
+            <h2 class="pagetitle mobile" data-text="LOGIN_FED_LOCAL_CONTENT_HEADER_CEC_DIGITAL_LOGIN_MOBILE">Tap on the icon to start the process or <a href="https://wiki.cisco.com/display/GISIAM/PingID" class="learn-more-link" tabindex="5">learn more</a></h2>
+            <h2 class="pagetitle desktop" data-text="LOGIN_FED_LOCAL_CONTENT_HEADER_CEC_DIGITAL_LOGIN_DESKTOP">Click on the icon to start the process or <a href="https://wiki.cisco.com/display/GISIAM/PingID" class="learn-more-link" tabindex="5">learn more</a></h2>
+          </div>
+
+          <div id="cec-digital-login-button">
+            <a href="https://cloudsso.cisco.com/sp/startSSO.ping?SpSessionAuthnAdapterId=standard&TargetResource=https://sso.cisco.com/autho/login/loginaction.html" tabindex="6">
+              <img class="digital-login-link block"/>
+            </a>
+          </div>
+
+          <!-- <div id="cec-info">
+            <p> Cisco’s traditional Log In will soon be replaced with <b>Digital Log In</b>, a simpler, more secure log in system.
+              <a href="https://wiki.cisco.com/display/GISIAM/PingID" class="cec">Learn more</a>
+            </p>
+          </div> -->
+        </div> <!-- closing digital -->
+      </div> <!-- closing right half -->
+    </div> <!-- closing row -->
+  </div> <!-- closing content -->
+
+  <footer id="fw-footer" class="container " tabindex="-1" data-owner="ID">
+    <ul>
+      <li><a href="http://wwwin.cisco.com/infosec/policies/classification.shtml" tabindex="7">Cisco Confidential</a></li>
+      <li><a href="http://wwwin.cisco.com/pcgi-bin/cec/redirect.cgi?link_id=12353" tabindex="8">Emergencies</a></li>
+    </ul>
+  </footer>
+ 
+
+<!-- TODO -->
+<!-- <div id="fw-overlay"><img src="//www.cisco.com//web/fw/tools/channels/i/icn/indicator.gif" /></div> -->
+
+<!-- TODO -->
+  <script type="text/javascript">
+    cdc = typeof cdc == "undefined" ? {} : cdc;
+    cdc.login = typeof cdc.login == "undefined" ? {} : cdc.login;
+    cdc.login.prefsObj = {
+      login_showErrorMsg : false,
+      login_show_smtryno : false,
+      login_action       : "https://sso.cisco.com/autho/inbound/doauthcpage_demo.html",
+      login_user_name    : "userid",
+      login_password_name: "password",
+      login_domain       : "https://www.cisco.com",
+      login_target       : "",
+      login_smauthreason : "",
+      login_smquerydata  : "",
+      login_smagentname  : "",
+      login_postpreservationdata :"",
+      login_SMENC        : "",
+      login_SMLOCALE     : "",
+      login_STANDARD     : true,
+      login_localize     : false,
+      login_discovery    : false
+    };
+  </script>
+
+  <!-- TODO -->
+  <script type="text/javascript" src="/etc/designs/cdc/clientlibs/responsive/js/login-federation.js"></script> 
+  <!-- <script type="text/javascript" src="//digital-signin.cisco.com:4502/etc/designs/cdc/clientlibs/responsive/js/login-federation.js"></script> -->
+  <!-- <script type="text/javascript" src="//localhost.cisco.com:4502/etc/designs/cdc/clientlibs/responsive/js/login-federation.js"></script> -->
+  <!-- <script type="text/javascript" src="//sso.cisco.com/autho/inbound/CDClogin-fed-assets/login-federation.js"></script> -->
+
+  <!--[if IE 8]></ie><![endif]-->
+  </body>
+</html>

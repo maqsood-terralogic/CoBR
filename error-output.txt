@@ -1,0 +1,197 @@
+CSCvi81133CSCvj21097CSCvj57774CSCvj62541CSCvj76081CSCvj76322CSCvj87626CSCvj92796CSCuw37238CSCvj23155CSCvj29019CSCvj48723CSCvj60786CSCvj68988CSCvj71572CSCvj80769CSCvj80948CSCvj82532CSCvj86402CSCve89463CSCvj16972CSCvj89634CSCvg05593CSCvi76819CSCvj13998CSCvj50041CSCvj67345CSCvj72512CSCvj81978CSCvj83703CSCvj89471Could not create directory '/var/www/.ssh'.
+The authenticity of host 'scapa-ind01-lnx (10.105.39.114)' can't be established.
+RSA key fingerprint is 06:23:fa:59:47:f8:6a:71:39:b1:ea:71:c5:79:37:0d.
+Are you sure you want to continue connecting (yes/no)? Kommu123$
+Please type 'yes' or 'no': CSCvi81133CSCvj21097CSCvj57774CSCvj62541CSCvj76081CSCvj76322CSCvj87626CSCvj92796CSCuw37238/usr/cisco/bin/qbugval.pl -i CSCvi81133 Engineer Component Product Headline
+Please type 'yes' or 'no': /usr/cisco/bin/qbugval.pl -i CSCvj21097 Engineer Component Product Headline
+Please type 'yes' or 'no': /usr/cisco/bin/qbugval.pl -i CSCvj57774 Engineer Component Product Headline
+Please type 'yes' or 'no': /usr/cisco/bin/qbugval.pl -i CSCvj62541 Engineer Component Product Headline
+Please type 'yes' or 'no': /usr/cisco/bin/qbugval.pl -i CSCvj76081 Engineer Component Product Headline
+Please type 'yes' or 'no': /usr/cisco/bin/qbugval.pl -i CSCvj76322 Engineer Component Product Headline
+Please type 'yes' or 'no': /usr/cisco/bin/qbugval.pl -i CSCvj87626 Engineer Component Product Headline
+Please type 'yes' or 'no': /usr/cisco/bin/qbugval.pl -i CSCvj92796 Engineer Component Product Headline
+Please type 'yes' or 'no': /usr/cisco/bin/qbugval.pl -i CSCuw37238 Engineer Component Product Headline
+Please type 'yes' or 'no': CSCvj23155/usr/cisco/bin/qbugval.pl -i CSCvj23155 Engineer Component Product Headline
+Please type 'yes' or 'no': Local date and time  before prrqlink Wed Jul  4 05:51:28 2018
+Local date and time  before prrqlink Wed Jul  4 05:51:28 2018
+Local date and time  before prrqlink Wed Jul  4 05:51:28 2018
+Local date and time  before prrqlink Wed Jul  4 05:51:28 2018
+Local date and time  before prrqlink Wed Jul  4 05:51:28 2018
+Local date and time  before prrqlink Wed Jul  4 05:51:28 2018
+Duplicate EntryDuplicate EntryDuplicate EntryDuplicate EntryDuplicate EntryDuplicate EntryDuplicate EntryDuplicate EntryDuplicate EntryDuplicate EntryLocal date and time  before prrqlink Wed Jul  4 05:51:28 2018
+Local date and time  before prrqlink Wed Jul  4 05:51:28 2018
+Local date and time  before prrqlink Wed Jul  4 05:51:28 2018
+Local date and time  before prrqlink Wed Jul  4 05:51:28 2018
+done
+Local date and time after prrq Wed Jul  4 05:51:33 2018
+CSCvj29019/usr/cisco/bin/qbugval.pl -i CSCvj29019 Engineer Component Product Headline
+Please type 'yes' or 'no': done
+Local date and time after prrq Wed Jul  4 05:51:33 2018
+CSCvj48723/usr/cisco/bin/qbugval.pl -i CSCvj48723 Engineer Component Product Headline
+Please type 'yes' or 'no': done
+Local date and time after prrq Wed Jul  4 05:51:37 2018
+CSCvj60786/usr/cisco/bin/qbugval.pl -i CSCvj60786 Engineer Component Product Headline
+Please type 'yes' or 'no': done
+Local date and time after prrq Wed Jul  4 05:51:37 2018
+CSCvj68988/usr/cisco/bin/qbugval.pl -i CSCvj68988 Engineer Component Product Headline
+Please type 'yes' or 'no': done
+Local date and time after prrq Wed Jul  4 05:51:38 2018
+done
+Local date and time after prrq Wed Jul  4 05:51:38 2018
+CSCvj71572/usr/cisco/bin/qbugval.pl -i CSCvj71572 Engineer Component Product Headline
+Please type 'yes' or 'no': CSCvj80769/usr/cisco/bin/qbugval.pl -i CSCvj80769 Engineer Component Product Headline
+Please type 'yes' or 'no': done
+Local date and time after prrq Wed Jul  4 05:51:41 2018
+CSCvj80948/usr/cisco/bin/qbugval.pl -i CSCvj80948 Engineer Component Product Headline
+Please type 'yes' or 'no': Duplicate EntryLocal date and time  before prrqlink Wed Jul  4 05:53:16 2018
+Duplicate EntryDuplicate EntryLocal date and time  before prrqlink Wed Jul  4 05:53:17 2018
+Duplicate EntryLocal date and time  before prrqlink Wed Jul  4 05:53:20 2018
+Duplicate EntryLocal date and time  before prrqlink Wed Jul  4 05:53:20 2018
+Duplicate EntryLocal date and time  before prrqlink Wed Jul  4 05:53:21 2018
+Duplicate EntryLocal date and time  before prrqlink Wed Jul  4 05:53:21 2018
+Local date and time  before prrqlink Wed Jul  4 05:53:24 2018
+done
+Local date and time after prrq Wed Jul  4 05:53:25 2018
+CSCvj82532/usr/cisco/bin/qbugval.pl -i CSCvj82532 Engineer Component Product Headline
+Please type 'yes' or 'no': done
+Local date and time after prrq Wed Jul  4 05:53:25 2018
+CSCvj86402/usr/cisco/bin/qbugval.pl -i CSCvj86402 Engineer Component Product Headline
+Please type 'yes' or 'no': done
+Local date and time after prrq Wed Jul  4 05:53:25 2018
+CSCve89463/usr/cisco/bin/qbugval.pl -i CSCve89463 Engineer Component Product Headline
+Please type 'yes' or 'no': done
+Local date and time after prrq Wed Jul  4 05:53:29 2018
+CSCvj16972/usr/cisco/bin/qbugval.pl -i CSCvj16972 Engineer Component Product Headline
+Please type 'yes' or 'no': done
+Local date and time after prrq Wed Jul  4 05:53:30 2018
+CSCvj89634/usr/cisco/bin/qbugval.pl -i CSCvj89634 Engineer Component Product Headline
+Please type 'yes' or 'no': done
+Local date and time after prrq Wed Jul  4 05:53:35 2018
+CSCvg05593/usr/cisco/bin/qbugval.pl -i CSCvg05593 Engineer Component Product Headline
+Please type 'yes' or 'no': Thread 5 terminated abnormally: Error GETing http://prrq.cloudapps.cisco.com/prrq/viewReview.do?action=show_diff&bugId=CSCvj76081: Can't connect to prrq.cloudapps.cisco.com:80 (Connection timed out) at fddts_mult.pl line 246 thread 5.
+Thread 6 terminated abnormally: Error GETing http://prrq.cloudapps.cisco.com/prrq/viewReview.do?action=show_diff&bugId=CSCvj76322: Can't connect to prrq.cloudapps.cisco.com:80 (Connection timed out) at fddts_mult.pl line 246 thread 6.
+done
+Local date and time after prrq Wed Jul  4 05:53:38 2018
+CSCvi76819/usr/cisco/bin/qbugval.pl -i CSCvi76819 Engineer Component Product Headline
+Please type 'yes' or 'no': Thread 1 terminated abnormally: Error GETing http://prrq.cloudapps.cisco.com/obrar.cgi?cookie%3DQp2hqW%252FRIExc0ZOV61MfOaVVZqwnGwDMLZrG9pkkl57LahUnhKpwSqEUn60RMQm%252BSAKv947gVlFrXDAmiinIPZtx6BrrO0eVu5tJtJ%252BRIV6XilbSo6bnHHZI6Mendh3SMe%252FI7nMDcV%252BrpNqnfGBBGXq0M89tRLCZmqKNsWxnGLaSt20YVzkXzZ1%252BEfp9M38RoJwrQ4etHiFzG%252BA7wcstJpzVo5rtxukyWoQxc56yYiZ0Me6qpI7V%252BUTyZ0eFVdSH17hxGhmVzXu2hlZejGL3Z5MZfIJf6zAFrE7bUFVN%252FGIn9V0TuSWgYzL7fXmorZzPMAR%252B%252FrhdpfkPR%252F%252BHqU6j9dSt9aenHHiyd6CyCfJzUB%252BV9CtHx%252FGDOcRpNYpdhV7fhC%252B8jVgaLaccEW23TDZ33A%253D%253D%20redirectto%3D%252Fprrq%252FviewReview.do%253Faction%253Dshow_diff%2526bugId%253DCSCvi81133%20ssoCookie%3Ddisablehttponly: Can't connect to prrq.cloudapps.cisco.com:80 (Connection timed out) at fddts_mult.pl line 250 thread 1.
+Duplicate EntryDuplicate EntryLocal date and time  before prrqlink Wed Jul  4 05:55:08 2018
+Duplicate EntryLocal date and time  before prrqlink Wed Jul  4 05:55:08 2018
+Duplicate EntryLocal date and time  before prrqlink Wed Jul  4 05:55:08 2018
+Duplicate EntryLocal date and time  before prrqlink Wed Jul  4 05:55:12 2018
+Duplicate EntryLocal date and time  before prrqlink Wed Jul  4 05:55:13 2018
+done
+Local date and time after prrq Wed Jul  4 05:55:13 2018
+CSCvj13998/usr/cisco/bin/qbugval.pl -i CSCvj13998 Engineer Component Product Headline
+Please type 'yes' or 'no': done
+Local date and time after prrq Wed Jul  4 05:55:17 2018
+CSCvj50041/usr/cisco/bin/qbugval.pl -i CSCvj50041 Engineer Component Product Headline
+Please type 'yes' or 'no': done
+Local date and time after prrq Wed Jul  4 05:55:17 2018
+CSCvj67345/usr/cisco/bin/qbugval.pl -i CSCvj67345 Engineer Component Product Headline
+Please type 'yes' or 'no': Duplicate EntryLocal date and time  before prrqlink Wed Jul  4 05:55:18 2018
+Duplicate EntryLocal date and time  before prrqlink Wed Jul  4 05:55:21 2018
+done
+Local date and time after prrq Wed Jul  4 05:55:21 2018
+CSCvj72512/usr/cisco/bin/qbugval.pl -i CSCvj72512 Engineer Component Product Headline
+Please type 'yes' or 'no': done
+Local date and time after prrq Wed Jul  4 05:55:23 2018
+CSCvj81978/usr/cisco/bin/qbugval.pl -i CSCvj81978 Engineer Component Product Headline
+Please type 'yes' or 'no': done
+Local date and time after prrq Wed Jul  4 05:55:27 2018
+CSCvj83703/usr/cisco/bin/qbugval.pl -i CSCvj83703 Engineer Component Product Headline
+Please type 'yes' or 'no': done
+Local date and time after prrq Wed Jul  4 05:55:32 2018
+CSCvj89471/usr/cisco/bin/qbugval.pl -i CSCvj89471 Engineer Component Product Headline
+Please type 'yes' or 'no': Duplicate EntryLocal date and time  before prrqlink Wed Jul  4 05:56:56 2018
+Duplicate EntryLocal date and time  before prrqlink Wed Jul  4 05:57:00 2018
+Duplicate EntryLocal date and time  before prrqlink Wed Jul  4 05:57:01 2018
+Duplicate EntryLocal date and time  before prrqlink Wed Jul  4 05:57:04 2018
+Duplicate EntryLocal date and time  before prrqlink Wed Jul  4 05:57:06 2018
+done
+Local date and time after prrq Wed Jul  4 05:57:10 2018
+NULL/usr/cisco/bin/qbugval.pl -i NULL Engineer Component Product Headline
+Please type 'yes' or 'no': Duplicate EntryLocal date and time  before prrqlink Wed Jul  4 05:57:11 2018
+done
+Local date and time after prrq Wed Jul  4 05:57:13 2018
+Duplicate EntryLocal date and time  before prrqlink Wed Jul  4 05:57:15 2018
+done
+Local date and time after prrq Wed Jul  4 05:57:17 2018
+done
+Local date and time after prrq Wed Jul  4 05:57:19 2018
+done
+Local date and time after prrq Wed Jul  4 05:57:21 2018
+done
+Local date and time after prrq Wed Jul  4 05:57:25 2018
+Local date and time  before prrqlink Wed Jul  4 05:57:33 2018
+done
+Local date and time after prrq Wed Jul  4 05:57:38 2018
+Thread 8 terminated abnormally: Error GETing http://prrq.cloudapps.cisco.com/prrq/viewReview.do?action=show_diff&bugId=CSCvj13998: Can't connect to prrq.cloudapps.cisco.com:80 (Connection timed out) at fddts_mult.pl line 250 thread 8.
+++++CSCvj87626,CSCvj62541,CSCvj76322,CSCvj76081,CSCvj21097,CSCvi81133,CSCuw37238,CSCvj57774,CSCvj92796,CSCvj23155,CSCvj48723,CSCvj29019,CSCvj68988,CSCvj60786,CSCvj71572,CSCvj80769,CSCvj80948,CSCvj82532,CSCve89463,CSCvj86402,CSCvj16972,CSCvj89634,CSCvg05593,CSCvi76819,CSCvj13998,CSCvj50041,CSCvj67345,CSCvj72512,CSCvj81978,CSCvj83703,CSCvj89471,NULL----calvados/ncs1004_pkg/drivers/bg_cardmgr+ipv4/bgp+calvados/hostos_pkg/boot,calvados/hostos_pkg/hushd,calvados/ncs_common_pkg/vmm_lib,calvados/panini_pkg/boot+platforms/common/gdplane+manageability/yang+calvados/shared_pkg/common/cai/fit,platforms/viking/lightspeed/npdriver,platforms/viking/lightspeed/rdl+platforms/common/gcplane/lc/fib/engine+platforms/common/osa+calvados/asr9k_pkg/system/vmm_lib,calvados/fretta_pkg/system/vmm_lib,calvados/ncs_common_pkg/vmm_lib,calvados/sunstone_pkg/system/vmm_lib,calvados/system_pkg/rvm_mgr,calvados/system_pkg/vm_mgr,calvados/uea_pkg/system/vmm_lib,calvados/zermatt_pkg/system/vmm_lib+platforms/viking/lc/fca+test/wxtf+aaa/lib,aaa/locald,aaa/protocols/radius,aaa/tacacs+infra/tc+platforms/uea/dpfpga+platforms/common/icpe_ea_pd,platforms/common/osa+platforms/viking/lc/feature/pbr+calvados/asr9k_pkg/drivers/canbus,calvados/asr9k_pkg/system/hardware_inv+ipv4/bgp+platforms/viking/lc/fca+platforms/common/dnx/driver,platforms/fretta/fwdlib,platforms/common/sse/forwarder,platforms/panini/aib,platforms/panini/common/pfi,platforms/panini/diags/base,platforms/panini/fabric/fgid,platforms/panini/feature/bundlemgr,platforms/panini/feature/multicast,platforms/panini/lc/fib,platforms/panini/lc/intf_ea_dll,platforms/panini/lc/l2fib,platforms/panini/lib,platforms/panini/rp/multicast/mrib,platforms/panini/spio,platforms/scapa/common/pfi,platforms/scapa/lc/ma_pd_dll,platforms/ucs/aib,platforms/ucs/feature/bundlemgr+chkpt+CSCvi81133CSCvj21097CSCvj57774CSCvj62541CSCvj76081CSCvj76322CSCvj87626CSCvj92796CSCuw37238CSCvj23155CSCvj29019CSCvj48723CSCvj60786CSCvj68988CSCvj71572CSCvj80769CSCvj80948CSCvj82532CSCvj86402CSCve89463CSCvj16972CSCvj89634CSCvg05593CSCvi76819CSCvj13998CSCvj50041CSCvj67345CSCvj72512CSCvj81978CSCvj83703CSCvj89471Could not create directory '/var/www/.ssh'.
+The authenticity of host 'scapa-ind01-lnx (10.105.39.114)' can't be established.
+RSA key fingerprint is 06:23:fa:59:47:f8:6a:71:39:b1:ea:71:c5:79:37:0d.
+Are you sure you want to continue connecting (yes/no)? Kommu123$
+Please type 'yes' or 'no': CSCvi81133CSCvj21097CSCvj57774CSCvj62541CSCvj76081CSCvj76322CSCvj87626CSCvj92796CSCuw37238/usr/cisco/bin/qbugval.pl -i CSCvi81133 Engineer Component Product Headline
+Please type 'yes' or 'no': /usr/cisco/bin/qbugval.pl -i CSCvj21097 Engineer Component Product Headline
+Please type 'yes' or 'no': /usr/cisco/bin/qbugval.pl -i CSCvj57774 Engineer Component Product Headline
+Please type 'yes' or 'no': /usr/cisco/bin/qbugval.pl -i CSCvj62541 Engineer Component Product Headline
+Please type 'yes' or 'no': /usr/cisco/bin/qbugval.pl -i CSCvj76081 Engineer Component Product Headline
+Please type 'yes' or 'no': /usr/cisco/bin/qbugval.pl -i CSCvj76322 Engineer Component Product Headline
+Please type 'yes' or 'no': /usr/cisco/bin/qbugval.pl -i CSCvj87626 Engineer Component Product Headline
+Please type 'yes' or 'no': /usr/cisco/bin/qbugval.pl -i CSCvj92796 Engineer Component Product Headline
+Please type 'yes' or 'no': /usr/cisco/bin/qbugval.pl -i CSCuw37238 Engineer Component Product Headline
+Please type 'yes' or 'no': CSCvj23155/usr/cisco/bin/qbugval.pl -i CSCvj23155 Engineer Component Product Headline
+Please type 'yes' or 'no': Duplicate EntryDuplicate EntryDuplicate EntryDuplicate EntryDuplicate EntryDuplicate EntryDuplicate EntryDuplicate EntryDuplicate EntryDuplicate Entrydone
+CSCvj29019/usr/cisco/bin/qbugval.pl -i CSCvj29019 Engineer Component Product Headline
+Please type 'yes' or 'no': done
+CSCvj48723/usr/cisco/bin/qbugval.pl -i CSCvj48723 Engineer Component Product Headline
+Please type 'yes' or 'no': done
+CSCvj60786/usr/cisco/bin/qbugval.pl -i CSCvj60786 Engineer Component Product Headline
+Please type 'yes' or 'no': done
+CSCvj68988/usr/cisco/bin/qbugval.pl -i CSCvj68988 Engineer Component Product Headline
+Please type 'yes' or 'no': done
+CSCvj71572/usr/cisco/bin/qbugval.pl -i CSCvj71572 Engineer Component Product Headline
+Please type 'yes' or 'no': done
+CSCvj80769/usr/cisco/bin/qbugval.pl -i CSCvj80769 Engineer Component Product Headline
+Please type 'yes' or 'no': done
+CSCvj80948/usr/cisco/bin/qbugval.pl -i CSCvj80948 Engineer Component Product Headline
+Please type 'yes' or 'no': done
+CSCvj82532/usr/cisco/bin/qbugval.pl -i CSCvj82532 Engineer Component Product Headline
+Please type 'yes' or 'no': done
+CSCvj86402/usr/cisco/bin/qbugval.pl -i CSCvj86402 Engineer Component Product Headline
+Please type 'yes' or 'no': Duplicate EntryDuplicate EntryDuplicate EntryDuplicate EntryDuplicate EntryDuplicate EntryDuplicate EntryDuplicate Entrydone
+CSCve89463/usr/cisco/bin/qbugval.pl -i CSCve89463 Engineer Component Product Headline
+Please type 'yes' or 'no': done
+CSCvj16972/usr/cisco/bin/qbugval.pl -i CSCvj16972 Engineer Component Product Headline
+Please type 'yes' or 'no': Duplicate Entrydone
+CSCvj89634/usr/cisco/bin/qbugval.pl -i CSCvj89634 Engineer Component Product Headline
+Please type 'yes' or 'no': done
+CSCvg05593/usr/cisco/bin/qbugval.pl -i CSCvg05593 Engineer Component Product Headline
+Please type 'yes' or 'no': done
+CSCvi76819/usr/cisco/bin/qbugval.pl -i CSCvi76819 Engineer Component Product Headline
+Please type 'yes' or 'no': done
+CSCvj13998/usr/cisco/bin/qbugval.pl -i CSCvj13998 Engineer Component Product Headline
+Please type 'yes' or 'no': done
+CSCvj50041/usr/cisco/bin/qbugval.pl -i CSCvj50041 Engineer Component Product Headline
+Please type 'yes' or 'no': Thread 3 terminated abnormally: Error GETing http://prrq.cloudapps.cisco.com/prrq/viewReview.do?action=show_diff&bugId=CSCvj57774: Can't connect to prrq.cloudapps.cisco.com:80 (Connection timed out) at fddts_mult.pl line 250 thread 3.
+done
+CSCvj67345/usr/cisco/bin/qbugval.pl -i CSCvj67345 Engineer Component Product Headline
+Please type 'yes' or 'no': Duplicate EntryDuplicate EntryDuplicate EntryDuplicate EntryDuplicate EntryDuplicate Entrydone
+CSCvj72512/usr/cisco/bin/qbugval.pl -i CSCvj72512 Engineer Component Product Headline
+Please type 'yes' or 'no': Duplicate Entrydone
+CSCvj81978/usr/cisco/bin/qbugval.pl -i CSCvj81978 Engineer Component Product Headline
+Please type 'yes' or 'no': done
+Duplicate EntryCSCvj83703/usr/cisco/bin/qbugval.pl -i CSCvj83703 Engineer Component Product Headline
+Please type 'yes' or 'no': done
+CSCvj89471/usr/cisco/bin/qbugval.pl -i CSCvj89471 Engineer Component Product Headline
+Please type 'yes' or 'no': done
+NULL/usr/cisco/bin/qbugval.pl -i NULL Engineer Component Product Headline
+Please type 'yes' or 'no': done
+Duplicate Entrydone
+Thread 10 terminated abnormally: Error GETing http://prrq.cloudapps.cisco.com/prrq/viewReview.do?action=show_diff&bugId=CSCvj82532: Can't connect to prrq.cloudapps.cisco.com:80 (Connection timed out) at fddts_mult.pl line 250 thread 10.
+done
+Duplicate EntryDuplicate EntryDuplicate EntryDuplicate Entrydone
+done
+done
+done
+done
+++++CSCvj92796,CSCvj21097,CSCvj87626,CSCvj62541,CSCvi81133,CSCvj57774,CSCvj76081,CSCvj76322,CSCuw37238,CSCvj23155,CSCvj48723,CSCvj29019,CSCvj80769,CSCvj60786,CSCvj68988,CSCvj71572,CSCvj80948,CSCvj82532,CSCvj86402,CSCve89463,CSCvj16972,CSCvj89634,CSCvg05593,CSCvi76819,CSCvj13998,CSCvj50041,CSCvj67345,CSCvj72512,CSCvj89471,CSCvj81978,CSCvj83703,NULL----calvados/system_pkg/alarm_mgr+ipv4/bgp+platforms/common/dnx/driver,platforms/fretta/fwdlib,platforms/common/sse/forwarder,platforms/panini/aib,platforms/panini/common/pfi,platforms/panini/diags/base,platforms/panini/fabric/fgid,platforms/panini/feature/bundlemgr,platforms/panini/feature/multicast,platforms/panini/lc/fib,platforms/panini/lc/intf_ea_dll,platforms/panini/lc/l2fib,platforms/panini/lib,platforms/panini/rp/multicast/mrib,platforms/panini/spio,platforms/scapa/common/pfi,platforms/scapa/lc/ma_pd_dll,platforms/ucs/aib,platforms/ucs/feature/bundlemgr+calvados/asr9k_pkg/system/vmm_lib,calvados/fretta_pkg/system/vmm_lib,calvados/ncs_common_pkg/vmm_lib,calvados/sunstone_pkg/system/vmm_lib,calvados/system_pkg/rvm_mgr,calvados/system_pkg/vm_mgr,calvados/uea_pkg/system/vmm_lib,calvados/zermatt_pkg/system/vmm_lib+calvados/hostos_pkg/boot,calvados/hostos_pkg/hushd,calvados/ncs_common_pkg/vmm_lib,calvados/panini_pkg/boot+platforms/viking/lc/fca+calvados/asr9k_pkg/drivers/canbus,calvados/asr9k_pkg/system/hardware_inv+platforms/common/icpe_ea_pd,platforms/common/osa+platforms/common/bcm-dpa+infra/tc+platforms/common/gcplane/lc/fib/engine+ipv4/bgp+platforms/common/osa+test/wxtf+calvados/ncs1004_pkg/drivers/bg_cardmgr+platforms/viking/lc/feature/pbr+platforms/common/gdplane+platforms/viking/lc/fca+manageability/yang+chkpt+l2vpn+aaa/lib,aaa/locald,aaa/protocols/radius,aaa/tacacs+
